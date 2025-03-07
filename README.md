@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meryemdinc
 - 👀 I’m interested in software,espacially web development.
-- 🌱 I’m currently learning html,css,javascript,C#.
+- 🌱 I’m currently learning Asp.net Mvc ,C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me-> meryemdinc45@gmail.com
 - 😄 A busy 🐝.
